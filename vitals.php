@@ -2,17 +2,17 @@
 
 $vitals = [
     [
-        'patient_name' => 'Arun',
+        'patient_name' => 'Rahul',
         'vital_type' => 'Temperature',
         'value' => 102,
     ],
     [
-        'patient_name' => 'Fenix',
+        'patient_name' => 'Renu',
         'vital_type' => 'Pulse',
         'value' => 110,
     ],
     [
-        'patient_name' => 'Kumar',
+        'patient_name' => 'Ajith',
         'vital_type' => 'BP',
         'value' => '120/80',
     ],
